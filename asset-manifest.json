@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QRNOVA/static/css/main.b3816dc6.css",
+    "main.js": "/QRNOVA/static/js/main.cc19899e.js",
+    "index.html": "/QRNOVA/index.html",
+    "main.b3816dc6.css.map": "/QRNOVA/static/css/main.b3816dc6.css.map",
+    "main.cc19899e.js.map": "/QRNOVA/static/js/main.cc19899e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3816dc6.css",
+    "static/js/main.cc19899e.js"
+  ]
+}
