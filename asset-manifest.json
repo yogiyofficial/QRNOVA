@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/QRNOVA/static/css/main.b3816dc6.css",
-    "main.js": "/QRNOVA/static/js/main.c13f1a6c.js",
+    "main.css": "/QRNOVA/static/css/main.13b0884a.css",
+    "main.js": "/QRNOVA/static/js/main.e6470aca.js",
     "index.html": "/QRNOVA/index.html",
-    "main.b3816dc6.css.map": "/QRNOVA/static/css/main.b3816dc6.css.map",
-    "main.c13f1a6c.js.map": "/QRNOVA/static/js/main.c13f1a6c.js.map"
+    "main.13b0884a.css.map": "/QRNOVA/static/css/main.13b0884a.css.map",
+    "main.e6470aca.js.map": "/QRNOVA/static/js/main.e6470aca.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3816dc6.css",
-    "static/js/main.c13f1a6c.js"
+    "static/css/main.13b0884a.css",
+    "static/js/main.e6470aca.js"
   ]
 }
