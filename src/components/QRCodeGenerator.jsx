@@ -31,7 +31,7 @@ function QRCodeGenerator() {
       {/* 🌌 BACKGROUND */}
       <div className="fixed inset-0 -z-10">
         <img
-          src="./bg.jpg"
+          src="/bg.jpg"
           alt="bg"
           className="w-full h-full object-cover blur-sm scale-105"
         />
@@ -41,7 +41,7 @@ function QRCodeGenerator() {
       {/* 🔝 HEADER */}
       <header className="flex justify-between items-center px-5 md:px-10 py-4">
         <div className="flex items-center gap-2 md:gap-3">
-          <img src="./logo.png" className="w-8 h-8 md:w-10 md:h-10" alt="logo" />
+          <img src="/logo.png" className="w-8 h-8 md:w-10 md:h-10" alt="logo" />
           <h1 className="text-lg md:text-xl font-bold tracking-wide">QRNOVA</h1>
         </div>
       </header>
